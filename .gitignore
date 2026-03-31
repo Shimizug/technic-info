@@ -1,0 +1,31 @@
+# env
+.env
+
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volume / data
+data/
+azurite/
+
+# logs
+*.log
+
+# documentation
+docs/
+*.xlsx
+*.docx
