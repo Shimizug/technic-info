@@ -1,1 +1,1 @@
-君が代は
+Hello world!
